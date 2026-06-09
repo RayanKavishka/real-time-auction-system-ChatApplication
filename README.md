@@ -3,5 +3,5 @@
 
 Steps ...
 
-step 1 : run Server.java  |  
+step 1 : run Server.java  
 step 2 : run ClientInitializer.java
